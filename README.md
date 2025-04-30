@@ -1,14 +1,22 @@
 # Helping Hands
 
-![Helping Hands App Banner](images/helping-hands-banner.png)
+<div align="center">
+  <p float="left">
+    <img src="p1.jpg" width="13%" />
+    <img src="p2.jpg" width="13%" />
+    <img src="p3.jpg" width="13%" />
+    <img src="p4.jpg" width="13%" />
+    <img src="p5.jpg" width="13%" />
+    <img src="p6.jpg" width="13%" />
+    <img src="p7.jpg" width="13%" />
+  </p>
+</div>
 
 A mobile rehabilitation app designed to support post-surgery orthopedic recovery through interactive exercises and motion tracking.
 
 ## Overview
 
 Helping Hands is a specialized rehabilitation application developed in Lua using Corona SDK. Created in collaboration with medical professionals, the app transforms traditional paper-based recovery instructions into an engaging digital experience with progress tracking capabilities.
-
-![Exercise Interface](images/exercise-interface.png)
 
 ## Features
 
@@ -25,8 +33,6 @@ Helping Hands is a specialized rehabilitation application developed in Lua using
 - **Framework**: Corona SDK
 - **Data Management**: Secure cloud storage for recovery metrics
 - **Connectivity**: Optional data sharing with healthcare providers
-
-![Motion Tracking Feature](images/p1.jpg)
 
 ## Development Story
 
